@@ -1,9 +1,9 @@
 import { Button, Spin } from "antd";
 import { useState } from "react";
 import DisplayItems from "../components/DisplayItems";
-import useFetch from "../utils/FetchData";
 import OrderItem from "../components/OrderItem";
 import PaymentSummary from "../components/PaymentSummary";
+import useFetch from "../utils/FetchData";
 // import Razorpay from "razorpay";
 
 const HomePage = () => {
