@@ -32,7 +32,7 @@
     "name": "Tandoori Paneer",
     "veg": true,
     "price": 7,
-    "description": "Spiced paneeer, Onion,Green Capsicum & Red Paprika in Tandoori Sauce",
+    "description": "Spiced paneeer, Onion,Green",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.4ef45717e972cf45b43c010e3cde5a22.1.jpg?width=550",
     "sizeandcrust": [
@@ -60,7 +60,7 @@
     "name": "Veggie Supreme",
     "veg": true,
     "price": 8,
-    "description": "Black Olives,Green Capsicum, Mushroom, Onion,Red Paprika, Sweet Corn",
+    "description": "Black Olives,Green Capsicum",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.bc8dd369182b636ff171077efa53c344.1.jpg?width=550",
     "sizeandcrust": [
@@ -83,40 +83,13 @@
       }
     ]
   },
+
   {
     "id": 4,
-    "name": "Double Paneer Supreme",
-    "veg": true,
-    "price": 6,
-    "description": "Spiced Paneer, Herbed Onion&Green Capsicum, Red Paprika",
-    "quantity": 1,
-    "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/double-paneer-supreme.3cb382529b41d14d4a041b5cc5e64341.1.jpg?width=550",
-    "sizeandcrust": [
-      {
-        "mediumPan": [
-          {
-            "price": 6
-          }
-        ],
-        "mediumstuffedcrustcheesemax": [
-          {
-            "price": 7
-          }
-        ],
-        "medium stuffed crust-veg kebab": [
-          {
-            "price": 9
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Veggie Kebab Surprise",
+    "name": "Veggie Surprise",
     "veg": true,
     "price": 4,
-    "description": "Veg Kebab,Onion,Green Capsicum,Tomato & Sweet Corn in Tandoori Sauce",
+    "description": "Veg Kebab,Onion,Green",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veg-kebab-surprise.abab1dff179ab8cf95a59f30d6352297.1.jpg?width=550",
     "sizeandcrust": [
@@ -144,7 +117,7 @@
     "name": "Chicken Supreme",
     "veg": false,
     "price": 7,
-    "description": "Herbed Chicken,Schezwan Chicken Meatball,Chicken Tikka",
+    "description": "Herbed Chicken,Schezwan Chicken",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.6d53f104f071d304a47440f2fffa7378.1.jpg?width=550",
     "sizeandcrust": [
@@ -169,10 +142,10 @@
   },
   {
     "id": 6,
-    "name": "Chicken Tikka Supreme",
+    "name": "Tikka Supreme",
     "veg": false,
     "price": 6,
-    "description": "Chicken Tikka,Chicken Malai Tikka,Onion,Red Paprika",
+    "description": "Chicken Tikka, Malai Tikka",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka-supreme.830de5a911ca95a30e4ca98e529f1b3a.1.jpg?width=550",
     "sizeandcrust": [
@@ -200,7 +173,7 @@
     "name": "Triple Chicken Feast",
     "veg": false,
     "price": 8,
-    "description": "Schezwan Chicken Meatball Herbed Chicken,Chicken Sausage,Geen Capsicum, Onion,Red Paprika",
+    "description": "Schezwan Chicken Meatball Herbed",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/triple-chicken-feast.e4a546e7a8581a60952b99e3fe22987e.1.jpg?width=550",
     "sizeandcrust": [
@@ -253,7 +226,7 @@
   },
   {
     "id": 9,
-    "name": "Double Chicken Sausage",
+    "name": "Double Sausage",
     "veg": false,
     "price": 5,
     "description": "Chicken Sausage",
@@ -281,7 +254,7 @@
   },
   {
     "id": 10,
-    "name": "Spiced Chicken Meatballs",
+    "name": "Spiced Meatballs",
     "veg": false,
     "price": 4,
     "description": "Schezwan Chicken Meatball Onion",
@@ -337,10 +310,10 @@
   },
   {
     "id": 12,
-    "name": "Chicken Pepper Crunch",
+    "name": "Chicken Crunch",
     "veg": false,
     "price": 5,
-    "description": "Herbed Chicken, Onion, Green Capsicum, Red Capsicum ",
+    "description": "Herbed Chicken, Onion",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-pepper-crunch.624edb192601b73335e0100db5a6263a.1.jpg?width=550",
     "sizeandcrust": [
@@ -368,7 +341,7 @@
     "name": "Italian Chicken Feast",
     "veg": false,
     "price": 6,
-    "description": "Herbed Chicken, Onion, Green Capsicum, Red Capsicum ",
+    "description": "Herbed Chicken, Onion",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/italian-chicken-feast.edad91a082e9a16d677722a071487a1c.1.jpg?width=550",
     "sizeandcrust": [
@@ -472,7 +445,7 @@
   },
   {
     "id": 17,
-    "name": "Chicken N Corn Delight",
+    "name": "Chicken Delight",
     "veg": false,
     "price": 9,
     "description": "Cheese ,Chicken pepperoni",
@@ -503,7 +476,7 @@
     "name": "Farmers Pick",
     "veg": true,
     "price": 29,
-    "description": "Onion Herbed & Green Capsicum, Red Capsicum, Mushroom, Baby Corn",
+    "description": "Onion Herbed & Green Capsicum",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/farmers-pick.794695a631c14d4404057470020be703.1.jpg?width=550",
     "sizeandcrust": [
@@ -531,7 +504,7 @@
     "name": "Classic Corn",
     "veg": true,
     "price": 5,
-    "description": "Pizza topped with our Classic Pan sauce, sweet corn and cheesy dressing. An all-time favorite.",
+    "description": "Pizza topped with our Classic.",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-corn-pan-personal.7c80196383b32e2ad5715646c1b12df8.1.png?width=550",
     "sizeandcrust": [
@@ -556,10 +529,10 @@
   },
   {
     "id": 20,
-    "name": "Classic Onion Capsicum",
+    "name": "Classic Onion",
     "veg": true,
     "price": 4,
-    "description": "Pizza topped with our Classic Pan sauce, crunchy onion & capsicum and cheesy dressing.",
+    "description": "Pizza topped with our Classic",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-onion-capsicum-pan-personal.dad788ecbd3fcc57366462827e31ee05.1.jpg?width=550",
     "sizeandcrust": [
@@ -587,7 +560,7 @@
     "name": "Italian Onion Tomato",
     "veg": true,
     "price": 8,
-    "description": "Pizza topped with our Chef's Special Italian sauce, crunchy onion, juicy tomatoes and cheesy dressing.",
+    "description": "Pizza topped with our Chef's",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/italian-onion-tomato-pan-personal.cb37b0766ef3ba8844fa69b2d073c215.1.jpg?width=550",
     "sizeandcrust": [
@@ -612,10 +585,10 @@
   },
   {
     "id": 22,
-    "name": "Tandoori Mushroom & Sweet Corn",
+    "name": "Tandoori Mushroom",
     "veg": true,
     "price": 5,
-    "description": "Pizza topped with our signature tandoori sauce, juicy mushroom, sweet corn and cheesy dressing.",
+    "description": "Pizza topped with our signature",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-mushroom-&-sweet-corn-pan-personal.49a1287d1cece07781c106e552979fa2.1.jpg?width=550",
     "sizeandcrust": [
@@ -640,10 +613,10 @@
   },
   {
     "id": 23,
-    "name": "Schezwan Corn & Capsicum",
+    "name": "Schezwan Corn",
     "veg": true,
     "price": 6,
-    "description": "Pizza topped with Spicy Schezwan sauce, sweet corn & crunchy capsicum and cheesy dressing.",
+    "description": "Pizza topped with Spicy .",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/schezwan-corn-&-capsicum-pan-personal.23c83846270110a536b40ec74529e907.1.jpg?width=550",
     "sizeandcrust": [
@@ -671,7 +644,7 @@
     "name": "Only Cheesy",
     "veg": true,
     "price": 40,
-    "description": "Pizza topped with cheesy dressing and mozzarella cheese for that extraaa cheesy flavor.",
+    "description": "Pizza topped with cheesy dressing.",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/only-cheesy-pan-personal.951dbe6ee07dafc48e04fe9a1bbe4ddb.1.jpg?width=550",
     "sizeandcrust": [
@@ -699,7 +672,7 @@
     "name": "Classic Sausage",
     "veg": false,
     "price": 8,
-    "description": "Pizza topped with our Classic Pan sauce, flavorful chicken sausage and cheesy dressing.",
+    "description": "Pizza topped with our Classic Pan.",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-sausage-pan-personal.fbbfbce57f62a8d8b366db5f66798704.1.jpg?width=550",
     "sizeandcrust": [
@@ -724,10 +697,10 @@
   },
   {
     "id": 26,
-    "name": "Classic Paneer Capsicum & Onion",
+    "name": "Classic Paneer",
     "veg": true,
     "price": 6,
-    "description": "Pizza topped with our Classic Pan sauce, flavorful paneer, crunchy onion & capsicum and cheesy dressing.",
+    "description": "Pizza topped",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-paneer-capsicum-&-onion-pan-personal.ae2c5f3e3e5881af1f31e65cb9526289.1.jpg?width=550",
     "sizeandcrust": [
@@ -752,10 +725,10 @@
   },
   {
     "id": 27,
-    "name": "Italian Pepperoni & Onion",
+    "name": "Italian Pepperoni",
     "veg": false,
     "price": 5,
-    "description": "Pizza topped with our Chef's Special Italian sauce, crunchy onion, chicken pepperoni and cheesy dressing.",
+    "description": "Pizza topped with our Chef's.",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/italian-pepperoni-&-onion-pan-personal.b6c0c99c9241f2fce14493773f625dd3.1.jpg?width=550",
     "sizeandcrust": [
@@ -780,10 +753,10 @@
   },
   {
     "id": 28,
-    "name": "Schezwan Meatball & Capsicum",
+    "name": "Schezwan",
     "veg": false,
     "price": 10,
-    "description": "Pizza topped with Spicy Schezwan sauce, crunchy capsicum, Schezwan meatballs and cheesy dressing making it spice lovers paradise.",
+    "description": "Pizza topped with",
     "quantity": 1,
     "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/schezwan-meatball-&-capsicum-pan-personal.e27dd4520db7e81fbebeec8428a925bf.1.jpg?width=550",
     "sizeandcrust": [
@@ -808,12 +781,12 @@
   },
   {
     "id": 29,
-    "name": "Tandoori Tikka & Onion",
-    "veg": false,
-    "price": 5,
-    "description": "Pizza topped with our signature tandoori sauce, crunchy onion, flavorful chicken tikka and cheesy dressing.",
+    "name": "Double Supreme",
+    "veg": true,
+    "price": 6,
+    "description": "Spiced Paneer, Herbed Onion",
     "quantity": 1,
-    "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-tikka-&-onion-pan-personal.e47a58535b3ef920e00d559d79defad4.1.jpg?width=550",
+    "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/double-paneer-supreme.3cb382529b41d14d4a041b5cc5e64341.1.jpg?width=550",
     "sizeandcrust": [
       {
         "mediumPan": [
@@ -829,34 +802,6 @@
         "medium stuffed crust-veg kebab": [
           {
             "price": 9
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "Classic Loaded Chicken Delight",
-    "veg": false,
-    "price": 9,
-    "description": "Pizza topped with our Classic Pan sauce, herbed chicken, flavorful sausages, juicy tomato and cheesy dressing.",
-    "quantity": 1,
-    "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-loaded-chicken-delight-pan-personal.8d0b6cb6bc34a734679ac40004edba10.1.jpg?width=550",
-    "sizeandcrust": [
-      {
-        "mediumPan": [
-          {
-            "price": 9
-          }
-        ],
-        "mediumstuffedcrustcheesemax": [
-          {
-            "price": 11
-          }
-        ],
-        "medium stuffed crust-veg kebab": [
-          {
-            "price": 13
           }
         ]
       }

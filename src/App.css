@@ -1,0 +1,28 @@
+/* Hide the scrollbar */
+.custom-scrollbar {
+  overflow-y: auto;
+  scrollbar-width: thin; /* Hide the scrollbar for Firefox */
+  scrollbar-color: transparent transparent; /* Hide the scrollbar for Firefox */
+}
+
+/* Webkit-based browsers (Chrome, Safari) */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px; /* Set the width of the scrollbar */
+  margin-left: 10px;
+}
+
+/* Style the scrollbar thumb (the draggable part) */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+/* Style the scrollbar thumb on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+/* Style the scrollbar track (the non-draggable area) */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
